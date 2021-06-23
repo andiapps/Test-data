@@ -1,0 +1,10 @@
+﻿Commands:
+
+Sensor:  python3 KA0621.py 3 wlxd037457d5f14 1800 1
+
+Console output:
+
+length of repeated is 177
+length of dataset without K breaking rows is 0
+length of PDSE is 177
+SUM of cleanedMainSet + repeated is 177
